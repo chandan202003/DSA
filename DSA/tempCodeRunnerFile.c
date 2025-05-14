@@ -1,0 +1,1 @@
+    printf("Stack: "); while (top) { printf("%d ", top->data); top = top->next; } printf("\n");
